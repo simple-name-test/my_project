@@ -1,4 +1,4 @@
-# my_project Movie Library (Личная кинотека)
+# Movie Library (Личная кинотека)
 
 **Автор:** Дмитрий Алтухов
 
